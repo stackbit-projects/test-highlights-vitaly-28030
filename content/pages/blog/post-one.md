@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Nature Mockup Magazine and let's make this longer to see how it behaves
 layout: PostLayout
 date: '2021-10-05'
 excerpt: Editorial Design
@@ -20,14 +20,24 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-12', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
         fontStyle: normal
         textAlign: center
-        margin: ['mt-0', 'mb-12']
+        margin:
+          - mt-0
+          - mb-12
       subtitle:
         fontWeight: '400'
         fontStyle: normal
