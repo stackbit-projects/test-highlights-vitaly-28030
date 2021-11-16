@@ -68,6 +68,7 @@ sections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-five.md
       - content/pages/blog/post-six.md
+      - content/pages/blog/post-six.md
     styles:
       self:
         height: auto
