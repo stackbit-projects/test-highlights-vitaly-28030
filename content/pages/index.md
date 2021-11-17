@@ -102,6 +102,7 @@ sections:
     title: Recent work
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/postlayout-tldgg761r.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/function-of-design.md
